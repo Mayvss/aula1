@@ -1,0 +1,6 @@
+nome = str(input("Digite seu nome: "))
+idade = int(input("Digite sua idade: "))
+onde_mora = input("Digite onde você mora: ")
+print(f"O seu nome é {nome}")
+print(f"Sua idade {idade}") 
+print(f"Onde você mora {onde_mora}")
